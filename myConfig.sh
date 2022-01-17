@@ -1,4 +1,5 @@
 #!/bin/bash
 # 
  
-cat ./autoChangeDir.txt >> ~/.bashrc
+cat ~/.config/ranger/autoChangeDir.txt >> ~/.bashrc
+
