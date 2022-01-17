@@ -1,5 +1,3 @@
 
 # === ranger ===
 alias ra='ranger --choosedir=$HOME/.config/ranger/.rangerdir; RANGERLASTDIR=`cat $HOME/.config/ranger/.rangerdir`; cd "$RANGERLASTDIR"'
-# === ranger ===
-
